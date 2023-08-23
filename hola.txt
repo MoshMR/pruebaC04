@@ -1,1 +1,2 @@
 inicio de la prueba
+probemos sin el comando para proxy
